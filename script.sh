@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello shitty world!"
+echo "Hello lovely world!"
